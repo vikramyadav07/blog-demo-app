@@ -19,7 +19,7 @@
 
 ##### **Clone Repository**
 
-> git clone https:// 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@github.com/vikramyadav07/blog-demo-app.git
+> git clone https://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@github.com/vikramyadav07/blog-demo-app.git
 
 
 
